@@ -2,7 +2,8 @@ import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import './App.css';
 import Header from './Header';
-import StudentModule from './student/StudentModule';
+import { LessonModule } from './lesson/LessonModule';
+import { StudentModule } from './student/StudentModule';
 
 function App() {
   return (
@@ -17,8 +18,8 @@ function App() {
                 Welcome stranger,you're viewing Student Information System made with React/Typescript to learn react ^_^
               </div>
             </Route>
-            <Route exact path="/students" component={StudentModule} />
-            <Route exact path="/lesson" />
+            <Route path="/students" component={StudentModule} />
+            <Route path="/lessons" component={LessonModule} />
           </Switch >
         }
       </div>

@@ -1,7 +1,7 @@
 .App {
   /* text-align: center; */
   min-height: 100vh;
-  color: white;
+  /* color: white; */
   background-color: #282c34;
 }
 
@@ -28,4 +28,28 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+/* .full-width {
+    width: 100%;
+    margin: 0;
+} */
+
+.margin-button {
+  margin-right: 5px;
+}
+
+.form-control {
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  margin: 10px;
+  font-size: calc(10px + 2vmin);
+}
+
+.text-end {
+  margin: 10px;
 }

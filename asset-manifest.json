@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/student-information-react/static/css/main.1559be80.chunk.css",
-    "main.js": "/student-information-react/static/js/main.fa82fb0b.chunk.js",
-    "main.js.map": "/student-information-react/static/js/main.fa82fb0b.chunk.js.map",
+    "main.js": "/student-information-react/static/js/main.d96de364.chunk.js",
+    "main.js.map": "/student-information-react/static/js/main.d96de364.chunk.js.map",
     "runtime-main.js": "/student-information-react/static/js/runtime-main.810bcdff.js",
     "runtime-main.js.map": "/student-information-react/static/js/runtime-main.810bcdff.js.map",
     "static/css/2.80bc89e9.chunk.css": "/student-information-react/static/css/2.80bc89e9.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.80bc89e9.chunk.css",
     "static/js/2.06ef4b31.chunk.js",
     "static/css/main.1559be80.chunk.css",
-    "static/js/main.fa82fb0b.chunk.js"
+    "static/js/main.d96de364.chunk.js"
   ]
 }

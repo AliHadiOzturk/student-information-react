@@ -1,7 +1,7 @@
 {
   "name": "student-information",
   "version": "0.1.0",
-  "homepage": "/student-information-react",
+  "homepage": "https://alihadiozturk.github.io/student-information-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",

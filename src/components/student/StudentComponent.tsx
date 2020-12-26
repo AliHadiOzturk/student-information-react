@@ -101,7 +101,7 @@ export const StudentComponent: React.FC<RouteProps> = () => {
                             <StudentLessons student={student} setStudent={(s) => setStudent(s)} />
                             <div className="modal-footer">
                                 <button type="button" className="btn btn-danger" data-bs-dismiss="modal">Close</button>
-                                <button type="button" className="btn btn-success">Save</button>
+                                {/* <button type="button" className="btn btn-success">Save</button> */}
                             </div>
                         </div>
                     </div>
